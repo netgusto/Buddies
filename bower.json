@@ -1,0 +1,17 @@
+{
+  "name": "buddies",
+  "version": "0.0.1-dev",
+  "homepage": "https://github.com/netgusto/Buddies",
+  "authors": [
+    "Jérôme Schneider <contact@netgusto.com>"
+  ],
+  "description": "Address book Web client based on ReactJS",
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

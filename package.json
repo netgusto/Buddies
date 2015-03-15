@@ -1,9 +1,8 @@
 {
-  "name": "reactrouterhelloworld",
-  "version": "0.0.0",
-  "description": "",
-  "repository": "",
-  "private": true,
+  "name": "buddies",
+  "version": "0.0.1-dev",
+  "description": "Address book Web client based on ReactJS",
+  "main": "Gruntfile.js",
   "src": "src",
   "test": "test",
   "dist": "dist",
@@ -42,5 +41,10 @@
     "grunt-contrib-copy": "~0.5.0",
     "grunt-contrib-clean": "~0.6.0",
     "react-hot-loader": "^0.4.5"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jérôme Schneider <contact@netgusto.com>",
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"
 }
